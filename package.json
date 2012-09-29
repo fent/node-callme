@@ -1,0 +1,25 @@
+{
+  "name": "callme",
+  "description": "Hey I just met you, and this is crazy, but here's my callback.",
+  "keywords": ["flow", "api", "test"],
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fent/node-callme.git"
+  },
+  "author": "fent (https://github.com/fent)",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*-test.js"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+    "mocha": "x"
+  },
+  "licenses": [ {
+    "type": "MIT",
+    "url" : "http://github.com/fent/node-callme/raw/master/LICENSE"
+  }]
+}
