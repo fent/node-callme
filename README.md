@@ -1,4 +1,5 @@
-# node-callme [![Build Status](https://secure.travis-ci.org/fent/node-callme.png)](http://travis-ci.org/fent/node-callme)
+# node-callme
+
 
 Hey I just met you, and this is crazy, but here's my callback, so definitely call it once, and once only.
 
@@ -6,6 +7,7 @@ This tiny module is meant to help debug pesky asynchronous code by making sure y
 
 This is meant to be used during testing, not production code. But could be used to help debug.
 
+[![Build Status](https://secure.travis-ci.org/fent/node-callme.png)](http://travis-ci.org/fent/node-callme) [![Dependency Status](https://gemnasium.com/fent/node-callme.svg)](https://gemnasium.com/fent/node-callme)
 
 # Usage
 
